@@ -1,0 +1,38 @@
+
+
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: #E0E0E0;
+    display: inline-block;
+    width: 200px;
+    margin: 15px;
+    box-sizing: border-box;
+    padding: 0 2px;
+}
+
+img{
+    margin: 0 35px;
+}
+
+p,h2{
+    text-align: center;
+}
+
+h2{
+    margin: 10px 0;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 0;
+}
+
